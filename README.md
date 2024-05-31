@@ -9,10 +9,7 @@ I use an AI model to detect hand signs and control lighting. The following image
 
 ## Hand Gesture Recognition
 
-<video width="600" controls>
-  <source src="img/Hand Gesture Recognition 2024-05-30 14-23-46.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Hand Gesture Recognition](img/Hand-Gesture-Recognition-2024-05-30-14-23-46.gif)
 
 This technology allows users to easily control lighting using hand signs.
 
